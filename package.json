@@ -1,0 +1,8 @@
+{
+  "name": "full-throttle",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full Throttle: a text-based motorsport career RPG",
+  "scripts": {"build": "./build.sh", "test": "node test/run_all.js"},
+  "devDependencies": {"playwright-core": "^1.55.0"}
+}
